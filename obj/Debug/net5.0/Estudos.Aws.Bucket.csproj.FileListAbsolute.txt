@@ -1,0 +1,62 @@
+C:\Source\Estudos.Aws.Bucket\obj\Debug\net5.0\Estudos.Aws.Bucket.csproj.AssemblyReference.cache
+C:\Source\Estudos.Aws.Bucket\obj\Debug\net5.0\Estudos.Aws.Bucket.GeneratedMSBuildEditorConfig.editorconfig
+C:\Source\Estudos.Aws.Bucket\obj\Debug\net5.0\Estudos.Aws.Bucket.AssemblyInfoInputs.cache
+C:\Source\Estudos.Aws.Bucket\obj\Debug\net5.0\Estudos.Aws.Bucket.AssemblyInfo.cs
+C:\Source\Estudos.Aws.Bucket\obj\Debug\net5.0\Estudos.Aws.Bucket.csproj.CoreCompileInputs.cache
+C:\Source\Estudos.Aws.Bucket\obj\Debug\net5.0\Estudos.Aws.Bucket.MvcApplicationPartsAssemblyInfo.cs
+C:\Source\Estudos.Aws.Bucket\obj\Debug\net5.0\Estudos.Aws.Bucket.MvcApplicationPartsAssemblyInfo.cache
+C:\Source\Estudos.Aws.Bucket\bin\Debug\net5.0\appsettings.Development.json
+C:\Source\Estudos.Aws.Bucket\bin\Debug\net5.0\appsettings.json
+C:\Source\Estudos.Aws.Bucket\bin\Debug\net5.0\Estudos.Aws.Bucket.exe
+C:\Source\Estudos.Aws.Bucket\bin\Debug\net5.0\Estudos.Aws.Bucket.deps.json
+C:\Source\Estudos.Aws.Bucket\bin\Debug\net5.0\Estudos.Aws.Bucket.runtimeconfig.json
+C:\Source\Estudos.Aws.Bucket\bin\Debug\net5.0\Estudos.Aws.Bucket.runtimeconfig.dev.json
+C:\Source\Estudos.Aws.Bucket\bin\Debug\net5.0\Estudos.Aws.Bucket.dll
+C:\Source\Estudos.Aws.Bucket\bin\Debug\net5.0\Estudos.Aws.Bucket.pdb
+C:\Source\Estudos.Aws.Bucket\bin\Debug\net5.0\AWSSDK.Core.dll
+C:\Source\Estudos.Aws.Bucket\bin\Debug\net5.0\AWSSDK.Extensions.NETCore.Setup.dll
+C:\Source\Estudos.Aws.Bucket\bin\Debug\net5.0\AWSSDK.S3.dll
+C:\Source\Estudos.Aws.Bucket\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Source\Estudos.Aws.Bucket\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Source\Estudos.Aws.Bucket\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Source\Estudos.Aws.Bucket\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Source\Estudos.Aws.Bucket\obj\Debug\net5.0\scopedcss\bundle\Estudos.Aws.Bucket.styles.css
+C:\Source\Estudos.Aws.Bucket\obj\Debug\net5.0\staticwebassets\Estudos.Aws.Bucket.StaticWebAssets.Manifest.cache
+C:\Source\Estudos.Aws.Bucket\obj\Debug\net5.0\Estudos.Aws.Bucket.RazorTargetAssemblyInfo.cache
+C:\Source\Estudos.Aws.Bucket\obj\Debug\net5.0\Estudos.Aws.Bucket.csproj.CopyComplete
+C:\Source\Estudos.Aws.Bucket\obj\Debug\net5.0\Estudos.Aws.Bucket.dll
+C:\Source\Estudos.Aws.Bucket\obj\Debug\net5.0\refint\Estudos.Aws.Bucket.dll
+C:\Source\Estudos.Aws.Bucket\obj\Debug\net5.0\Estudos.Aws.Bucket.pdb
+C:\Source\Estudos.Aws.Bucket\obj\Debug\net5.0\Estudos.Aws.Bucket.genruntimeconfig.cache
+C:\Source\Estudos.Aws.Bucket\obj\Debug\net5.0\ref\Estudos.Aws.Bucket.dll
+C:\Users\deucl\OneDrive\Área de Trabalho\Aws.Bucket.Api\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\deucl\OneDrive\Área de Trabalho\Aws.Bucket.Api\bin\Debug\net5.0\appsettings.json
+C:\Users\deucl\OneDrive\Área de Trabalho\Aws.Bucket.Api\bin\Debug\net5.0\Estudos.Aws.Bucket.exe
+C:\Users\deucl\OneDrive\Área de Trabalho\Aws.Bucket.Api\bin\Debug\net5.0\Estudos.Aws.Bucket.deps.json
+C:\Users\deucl\OneDrive\Área de Trabalho\Aws.Bucket.Api\bin\Debug\net5.0\Estudos.Aws.Bucket.runtimeconfig.json
+C:\Users\deucl\OneDrive\Área de Trabalho\Aws.Bucket.Api\bin\Debug\net5.0\Estudos.Aws.Bucket.runtimeconfig.dev.json
+C:\Users\deucl\OneDrive\Área de Trabalho\Aws.Bucket.Api\bin\Debug\net5.0\Estudos.Aws.Bucket.dll
+C:\Users\deucl\OneDrive\Área de Trabalho\Aws.Bucket.Api\bin\Debug\net5.0\Estudos.Aws.Bucket.pdb
+C:\Users\deucl\OneDrive\Área de Trabalho\Aws.Bucket.Api\bin\Debug\net5.0\AWSSDK.Core.dll
+C:\Users\deucl\OneDrive\Área de Trabalho\Aws.Bucket.Api\bin\Debug\net5.0\AWSSDK.Extensions.NETCore.Setup.dll
+C:\Users\deucl\OneDrive\Área de Trabalho\Aws.Bucket.Api\bin\Debug\net5.0\AWSSDK.S3.dll
+C:\Users\deucl\OneDrive\Área de Trabalho\Aws.Bucket.Api\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\deucl\OneDrive\Área de Trabalho\Aws.Bucket.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\deucl\OneDrive\Área de Trabalho\Aws.Bucket.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\deucl\OneDrive\Área de Trabalho\Aws.Bucket.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\deucl\OneDrive\Área de Trabalho\Aws.Bucket.Api\obj\Debug\net5.0\Estudos.Aws.Bucket.csproj.AssemblyReference.cache
+C:\Users\deucl\OneDrive\Área de Trabalho\Aws.Bucket.Api\obj\Debug\net5.0\Estudos.Aws.Bucket.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\deucl\OneDrive\Área de Trabalho\Aws.Bucket.Api\obj\Debug\net5.0\Estudos.Aws.Bucket.AssemblyInfoInputs.cache
+C:\Users\deucl\OneDrive\Área de Trabalho\Aws.Bucket.Api\obj\Debug\net5.0\Estudos.Aws.Bucket.AssemblyInfo.cs
+C:\Users\deucl\OneDrive\Área de Trabalho\Aws.Bucket.Api\obj\Debug\net5.0\Estudos.Aws.Bucket.csproj.CoreCompileInputs.cache
+C:\Users\deucl\OneDrive\Área de Trabalho\Aws.Bucket.Api\obj\Debug\net5.0\Estudos.Aws.Bucket.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\deucl\OneDrive\Área de Trabalho\Aws.Bucket.Api\obj\Debug\net5.0\Estudos.Aws.Bucket.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\deucl\OneDrive\Área de Trabalho\Aws.Bucket.Api\obj\Debug\net5.0\scopedcss\bundle\Estudos.Aws.Bucket.styles.css
+C:\Users\deucl\OneDrive\Área de Trabalho\Aws.Bucket.Api\obj\Debug\net5.0\staticwebassets\Estudos.Aws.Bucket.StaticWebAssets.Manifest.cache
+C:\Users\deucl\OneDrive\Área de Trabalho\Aws.Bucket.Api\obj\Debug\net5.0\Estudos.Aws.Bucket.RazorTargetAssemblyInfo.cache
+C:\Users\deucl\OneDrive\Área de Trabalho\Aws.Bucket.Api\obj\Debug\net5.0\Estudos.Aws.Bucket.csproj.CopyComplete
+C:\Users\deucl\OneDrive\Área de Trabalho\Aws.Bucket.Api\obj\Debug\net5.0\Estudos.Aws.Bucket.dll
+C:\Users\deucl\OneDrive\Área de Trabalho\Aws.Bucket.Api\obj\Debug\net5.0\refint\Estudos.Aws.Bucket.dll
+C:\Users\deucl\OneDrive\Área de Trabalho\Aws.Bucket.Api\obj\Debug\net5.0\Estudos.Aws.Bucket.pdb
+C:\Users\deucl\OneDrive\Área de Trabalho\Aws.Bucket.Api\obj\Debug\net5.0\Estudos.Aws.Bucket.genruntimeconfig.cache
+C:\Users\deucl\OneDrive\Área de Trabalho\Aws.Bucket.Api\obj\Debug\net5.0\ref\Estudos.Aws.Bucket.dll
